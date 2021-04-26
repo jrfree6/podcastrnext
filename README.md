@@ -72,4 +72,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ---
 
-Develop by jrfree6 :wave:
+Develop by jrfree6 :wave: :wave:
