@@ -1,3 +1,24 @@
+<h1 align="center">
+    <img alt="Be the Hero" src="public/logo.svg" width="250px" />
+</h1>
+<h4 align="center">
+  🚀 PODECASTRNEXT
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jrfree6/podecastrnext">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jrfree6/podecastrnext">
+  
+  <a href="https://github.com/jrfree6/podecastrnext/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jrfree6/podecastrnext">
+  </a>
+
+  <a href="https://github.com/jrfree6/podecastrnext/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/jrfree6/podecastrnext">
+  </a>
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -48,4 +69,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# podecastrnext
+
+---
+
+Develop by jrfree6 :wave:
